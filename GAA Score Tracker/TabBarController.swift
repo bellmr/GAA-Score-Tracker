@@ -25,6 +25,8 @@ class TabBarController: UITabBarController {
             tabBarAppearance.stackedLayoutAppearance.normal.titleTextAttributes = [ .font: UIFont.boldSystemFont(ofSize: 16)]
             tabBar.standardAppearance = tabBarAppearance
             tabBar.scrollEdgeAppearance = tabBarAppearance
+            
+            
         }
         
 //        homeItem = theBar.items![0]
